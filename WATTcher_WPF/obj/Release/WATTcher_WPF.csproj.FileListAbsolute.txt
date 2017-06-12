@@ -1,0 +1,14 @@
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\MainWindow.g.cs
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\App.g.cs
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\MainWindow.baml
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher_WPF.Properties.Resources.resources
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher_WPF.csproj.GenerateResource.Cache
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher_WPF.csprojResolveAssemblyReference.cache
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\bin\Release\WATTcher.exe.config
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\bin\Release\WATTcher.exe
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\bin\Release\WATTcher.pdb
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher_MarkupCompile.cache
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher_MarkupCompile.lref
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher.g.resources
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher.exe
+C:\Users\AJNSALFBASLFNSA\documents\visual studio 2017\Projects\WATTcher_WPF\WATTcher_WPF\obj\Release\WATTcher.pdb

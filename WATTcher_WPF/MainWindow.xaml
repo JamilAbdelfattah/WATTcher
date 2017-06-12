@@ -1,0 +1,25 @@
+﻿<Window x:Name="WATTcher" x:Class="WATTcher_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WATTcher_WPF"
+        mc:Ignorable="d"
+        Title="WATTcher" Height="51.902" Width="206.818" WindowStyle="None" ResizeMode="NoResize" Background="#FF1D1D1D" Foreground="{x:Null}" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" Icon="Assets/icon.ico" Activated="WATTcher_Activated" Loaded="WATTcher_Loaded">
+    <Grid HorizontalAlignment="Left" Height="52" VerticalAlignment="Top" Width="207" MouseDown="Grid_MouseDown" Background="#FF1B1A1A">
+        <TextBlock x:Name="Timer_Block" Text="7777777777" FontWeight="Bold" Foreground="#FFFF4B4B" FontSize="16" RenderTransformOrigin="0.5,0.5" TextAlignment="Center" Margin="0,14,0,13">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+            <TextBlock.Effect>
+                <DropShadowEffect ShadowDepth="1" Opacity="0.5" BlurRadius="2"/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <Button x:Name="CloseTImer_Button" Content="X" HorizontalAlignment="Center" Margin="191,-3,-1,0" VerticalAlignment="Top" Width="17" Height="17" BorderThickness="0,0,1,0" VerticalContentAlignment="Center" Background="{x:Null}" Foreground="White" FontSize="11" BorderBrush="{x:Null}" Click="CloseTImer_Button_Click"/>
+    </Grid>
+</Window>
